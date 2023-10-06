@@ -1,0 +1,26 @@
+.sla{
+    font-style: italic;
+    color: rgb(95, 17, 17);
+    font-size: 100%;
+}
+#bunt{
+    font-style: italic;
+    font-family: 'cursive';
+    color: aqua;
+    font-weight: 100 ;
+    position: inherit;
+    background-color: tomato;
+    width: 50%;
+    font-size: 75%;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-bottom: 5px;
+    border-radius: 15px;
+    border-color: black;
+    border-top: 5px;
+    border-style: groove;
+    
+}
+
