@@ -1,0 +1,19 @@
+body{
+    color: rgb(97, 97, 97);
+}
+
+h1{
+    font-family: 'Times New Roman';
+    color: darkblue;
+
+}
+p{
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: deepskyblue;
+
+}
+b{
+    color: aqua;
+
+}

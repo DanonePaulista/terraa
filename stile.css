@@ -3,7 +3,7 @@
     color: rgb(95, 17, 17);
     font-size: 100%;
 }
-#bunt{
+#bunt:hover{
     font-style: italic;
     font-family: 'cursive';
     color: aqua;
@@ -22,5 +22,15 @@
     border-top: 5px;
     border-style: groove;
     
+}
+
+img[src^="images.jpeg"]:hover{
+   filter: brightness(2000%);
+   
+
+}
+.topnav{
+    overflow: hidden;
+    background-color: black;
 }
 
