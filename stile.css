@@ -3,7 +3,7 @@
     color: rgb(95, 17, 17);
     font-size: 100%;
 }
-#bunt:hover{
+.bunt{
     font-style: italic;
     font-family: 'cursive';
     color: aqua;
@@ -11,7 +11,7 @@
     position: inherit;
     background-color: tomato;
     width: 50%;
-    font-size: 75%;
+    font-size: 50px;
     padding-bottom: 25px;
     padding-top: 25px;
     padding-left: 5px;
@@ -24,8 +24,9 @@
     
 }
 
-img[src^="images.jpeg"]:hover{
-   filter: brightness(2000%);
+img[src$=".png"]{
+   width: 5%;
+   height: 5%;
    
 
 }
@@ -33,4 +34,35 @@ img[src^="images.jpeg"]:hover{
     overflow: hidden;
     background-color: black;
 }
+header{
+    background: #3cff00;
+    height: 20%;
+    text-align: center;
+    word-spacing: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   border: 5px;
+   border-style: double;
 
+}
+a{
+    font-family: cursive;
+    color: black;
+    background: #44444417;
+    font-size: 30px;
+}
+.collumn{
+    width: 25%;
+    float:left;
+    background: #0000;
+}
+.collumn_side{
+    width: 50%;
+    float: left;
+    background: white;
+}
+
+body{
+    background: #7cf57c;
+
+}

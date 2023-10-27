@@ -17,3 +17,7 @@ b{
     color: aqua;
 
 }
+header{
+    background: red;
+    grid: "h";
+}
