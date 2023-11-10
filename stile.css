@@ -45,7 +45,7 @@ header{
    border-style: double;
 
 }
-a{
+a :hover{
     font-family: cursive;
     color: black;
     background: #44444417;
@@ -66,3 +66,4 @@ body{
     background: #7cf57c;
 
 }
+
