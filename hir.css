@@ -21,3 +21,15 @@ header{
     background: red;
     grid: "h";
 }
+
+img[src $=".png"]{
+    width: 25px;
+    height: 25px;
+
+}
+
+table{
+    border-style: groove;
+    border-radius: 20%;
+    border-bottom: 20px;
+}
